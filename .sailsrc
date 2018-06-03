@@ -1,0 +1,9 @@
+{
+	"generators": {
+		"options": {},
+		"modules": {}
+	},
+	"hooks": {
+		"grunt": false
+	}
+}
